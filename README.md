@@ -1,6 +1,6 @@
 # ✅ Week05 Bootcamp2019 Project: Todo List
 
-### Goal: Build a Simple Todo List
+<!-- ### Goal: Build a Simple Todo List -->
 
 ### How to submit your code for review:
 
