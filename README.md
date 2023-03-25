@@ -15,7 +15,7 @@ This to-do list required a basic framework for the HTML, and I had free reigns o
 This was my very first in-lab project using JavaScript- and it was daunting, mainly because I was overwhelmed with the conceptualization of the clear-completed button. This was alleviated by learning to add a for loop for my clear completed function- and voila. 
 
 ### Bottom line: 
-
+```
 I completed the challenge: 5
 I feel good about my code: 5
 I received life-saving help from Ellie to optimize the 'clear completed' button. ❤️
